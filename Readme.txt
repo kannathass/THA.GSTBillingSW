@@ -1,0 +1,1 @@
+License key format to be encrypted - 76CPCACRT|31|12|2019 - [Harddisk key|Expiry date|month|year]

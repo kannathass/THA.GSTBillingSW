@@ -1,0 +1,5 @@
+D:\GSTBillingSW\Dev\THA.GSTBillingSW\THA.GSTBillingSW.Licensing\bin\Debug\THA.GSTBillingSW.Licensing.dll
+D:\GSTBillingSW\Dev\THA.GSTBillingSW\THA.GSTBillingSW.Licensing\bin\Debug\THA.GSTBillingSW.Licensing.pdb
+D:\GSTBillingSW\Dev\THA.GSTBillingSW\THA.GSTBillingSW.Licensing\obj\Debug\THA.GSTBillingSW.Licensing.dll
+D:\GSTBillingSW\Dev\THA.GSTBillingSW\THA.GSTBillingSW.Licensing\obj\Debug\THA.GSTBillingSW.Licensing.pdb
+D:\GSTBillingSW\Dev\THA.GSTBillingSW\THA.GSTBillingSW.Licensing\obj\Debug\THA.GSTBillingSW.Licensing.csproj.CoreCompileInputs.cache
